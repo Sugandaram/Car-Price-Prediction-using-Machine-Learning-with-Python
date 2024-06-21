@@ -1,5 +1,8 @@
 # Car-Price-Prediction-using-Machine-Learning-with-Python
 
+![Designer](https://github.com/Sugandaram/Car-Price-Prediction-using-Machine-Learning-with-Python/assets/113656218/f26b6423-6f80-4ec2-b18d-c97b6c86838b)
+
+
 ##### Conclusion
 
 In this analysis, we built and evaluated three regression models: Linear Regression, Lasso Regression, and XGBRegressor. The performance of each model was assessed using the R-squared metric, which indicates the proportion of the variance in the dependent variable that is predictable from the independent variables. Here are the results:
